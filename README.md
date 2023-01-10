@@ -1,4 +1,5 @@
-<h1 align="center">Bizland Template</h1> <style>H1{color:Blue;}</style>
+<style>H1{color:Blue;}</style>
+<h1 align="center">Bizland Template</h1>
 
 - [Live Demo](https://alaashalaby.github.io/BizlandTemplate/index.html)
 - [Code](https://github.com/alaashalaby/BizlandTemplate/blob/main/index.html)
